@@ -1,0 +1,10 @@
+h2{
+    background-color: rgb(17, 150, 202);
+    padding:20px;
+    margin: 0;
+}
+div{
+    position: relative;
+    float:right;
+    padding-right: 50px;
+}
